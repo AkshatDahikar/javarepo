@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-aop-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-aop-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-aop-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-aspects-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-aspects-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-aspects-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-beans-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-beans-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-beans-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-build-src-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-context-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-context-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-context-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-context-support-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-context-support-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-context-support-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-core-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-core-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-core-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-expression-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-expression-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-expression-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-framework-bom-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-framework-bom-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-framework-bom-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-instrument-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-instrument-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-instrument-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-instrument-tomcat-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-instrument-tomcat-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-instrument-tomcat-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-jdbc-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-jdbc-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-jdbc-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-jms-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-jms-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-jms-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-messaging-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-messaging-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-messaging-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-orm-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-orm-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-orm-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-oxm-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-oxm-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-oxm-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-test-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-test-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-test-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-tx-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-tx-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-tx-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-web-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-web-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-web-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-webmvc-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-webmvc-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-webmvc-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-webmvc-portlet-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-webmvc-portlet-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-webmvc-portlet-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-websocket-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-websocket-4.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/MVC/spring-websocket-4.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksha/OneDrive/Desktop/Springcore/spring/spring/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
